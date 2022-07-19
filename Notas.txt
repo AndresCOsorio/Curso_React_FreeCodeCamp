@@ -40,3 +40,8 @@ Comentarios:
 Retos:
 	1. Crear componente para el logo de freeCodeCamp.
 	2. Detectar y corregir errores que se generen en la aplicación.
+
+Proyecto 4:
+Retos:
+	1. Aplicar guardado de Información en base de datos
+	2. quitar componente intermedio de Lista de tareas e Implementar esa funcionalidad en App.
